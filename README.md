@@ -41,7 +41,19 @@ Developed with **Java** using **NetBeans IDE** and following the **Entity-Contro
 
 ## Folder Structure
 
-hotel-management-system/ ├── src/ # Source code │ ├── AdminUI.java # Admin interface │ ├── StaffUI.java # Staff interface for room and shift management │ ├── GuestUI.java # Guest interface for room reservations │ ├── Shift.java # Handles shift assignments and requests │ ├── Inventory.java # Manages inventory functionality │ └── RoomAvailability.java # Room availability management ├── shift_assignments.txt # Stores shift details ├── Availability.txt # Room availability data ├── README.md # Project README └── LICENSE # License information
+hotel-management-system/
+├── src/                           # Source code
+│   ├── AdminUI.java               # Admin interface
+│   ├── StaffUI.java               # Staff interface for room and shift management
+│   ├── GuestUI.java               # Guest interface for room reservations
+│   ├── Shift.java                 # Handles shift assignments and requests
+│   ├── Inventory.java             # Manages inventory functionality
+│   └── RoomAvailability.java      # Room availability management
+├── shift_assignments.txt          # Stores shift details
+├── Availability.txt               # Room availability data
+├── README.md                      # Project README
+└── LICENSE                        # License information
+
 
 ## Testing
 The application has undergone rigorous testing, including:
