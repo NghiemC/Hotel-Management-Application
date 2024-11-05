@@ -39,6 +39,7 @@ Developed with **Java** using **NetBeans IDE** and following the **Entity-Contro
    git clone https://github.com/yourusername/hotel-management-system.git
 
 ## Folder Structure
+
 hotel-management-system/
 ├── src/                           # Source code
 │   ├── AdminUI.java               # Admin interface
@@ -52,7 +53,8 @@ hotel-management-system/
 ├── README.md                      # Project README
 └── LICENSE                        # License information
 
-##Testing
+
+## Testing
 The application has undergone rigorous testing, including:
 
 1. Unit Tests:
@@ -70,7 +72,7 @@ The application has undergone rigorous testing, including:
 3. Submit Pull Request
 
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 This version should be ready for direct copying and pasting into a `README.md` file. Let me know if you need any more customizations!
 
