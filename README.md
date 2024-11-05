@@ -40,7 +40,7 @@ Developed with **Java** using **NetBeans IDE** and following the **Entity-Contro
    git clone https://github.com/yourusername/hotel-management-system.git
 
 ## Folder Structure
-
+```
 hotel-management-system/
 ├── src/                           # Source code
 │   ├── AdminUI.java               # Admin interface
@@ -53,7 +53,7 @@ hotel-management-system/
 ├── Availability.txt               # Room availability data
 ├── README.md                      # Project README
 └── LICENSE                        # License information
-
+```
 
 ## Testing
 The application has undergone rigorous testing, including:
