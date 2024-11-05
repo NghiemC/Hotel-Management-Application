@@ -32,6 +32,7 @@ Developed with **Java** using **NetBeans IDE** and following the **Entity-Contro
 | May 2, 2024     | Completed GUI for Shift Management in Admin and Staff UIs using Java Swing. |
 | May 5, 2024     | Added Room Availability Management functionality. |
 | May 6, 2024     | Finalized features for Inventory Management and refined error handling. |
+| Nov 11, 2024    | Transfering project details to this GitHub. |
 
 ## Installation
 1. **Clone the Repository**:
