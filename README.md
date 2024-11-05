@@ -37,3 +37,41 @@ Developed with **Java** using **NetBeans IDE** and following the **Entity-Contro
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/hotel-management-system.git
+
+## Folder Structure
+hotel-management-system/
+├── src/                           # Source code
+│   ├── AdminUI.java               # Admin interface
+│   ├── StaffUI.java               # Staff interface for room and shift management
+│   ├── GuestUI.java               # Guest interface for room reservations
+│   ├── Shift.java                 # Handles shift assignments and requests
+│   ├── Inventory.java             # Manages inventory functionality
+│   └── RoomAvailability.java      # Room availability management
+├── shift_assignments.txt          # Stores shift details
+├── Availability.txt               # Room availability data
+├── README.md                      # Project README
+└── LICENSE                        # License information
+
+##Testing
+The application has undergone rigorous testing, including:
+
+1. Unit Tests:
+   - Ensured room reservation, shift assignment, and inventory updates work as intended.
+2. Integration Tests:
+   - Verified seamless interaction between room management, shift management, and inventory.
+3. End-to-End Tests:
+ -Simulated complete workflows from booking a room to confirming shifts and updating inventory.
+
+## Contributing
+1. Fork the Repository
+ - Create a Branch: git checkout -b feature/YourFeature
+2. Commit Changes: git commit -m 'Add Your Feature'
+ - Push Changes: git push origin feature/YourFeature
+3. Submit Pull Request
+
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
+This version should be ready for direct copying and pasting into a `README.md` file. Let me know if you need any more customizations!
+
+
