@@ -41,6 +41,7 @@ Developed with **Java** using **NetBeans IDE** and following the **Entity-Contro
 ## Folder Structure
 
 hotel-management-system/
+
 ├── src/                           # Source code
 │   ├── AdminUI.java               # Admin interface
 │   ├── StaffUI.java               # Staff interface for room and shift management
