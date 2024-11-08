@@ -27,11 +27,12 @@ Developed with **Java** using **NetBeans IDE** and following the **Entity-Contro
 ## Project Timeline
 | Date            | Milestone                                         |
 |-----------------|---------------------------------------------------|
-| April 27, 2024  | Initial project setup with ECB pattern and core classes (`AdminUI`, `StaffUI`, `GuestUI`, etc.). |
-| April 28, 2024  | Added Shift Management features and integrated text file handling for shift data. |
-| May 2, 2024     | Completed GUI for Shift Management in Admin and Staff UIs using Java Swing. |
-| May 5, 2024     | Added Room Availability Management functionality. |
-| May 6, 2024     | Finalized features for Inventory Management and refined error handling. |
+| January 27, 2024| Initial project setup with ECB pattern and core classes (`AdminUI`, `StaffUI`, `GuestUI`, etc.). |
+| February 20,2024| Added Shift Management features and integrated text file handling for shift data. |
+| March 2, 2024   | Completed GUI for Shift Management in Admin and Staff UIs using Java Swing. |
+| March 5, 2024   | Added Room Availability Management functionality. |
+| March 14, 2024  | Finalized features for Inventory Management and refined error handling. |
+| March 15, 2024  | Full release of Ver. 1.0.00 |
 | Nov 11, 2024    | Transfering project details to this GitHub. |
 
 ## Installation
